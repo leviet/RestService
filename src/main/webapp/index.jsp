@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Firebase webapp</title>
 <script src="https://www.gstatic.com/firebasejs/3.2.0/firebase.js"></script>
 <script>
   // Initialize Firebase
@@ -18,6 +18,6 @@
 </script>
 </head>
 <body>
-
+	<h1>Hello wworld</h1>
 </body>
 </html>
