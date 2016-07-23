@@ -10,7 +10,7 @@
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyApt1anSXy0Od-fhFP_B4rTFuZGiSnzgL0",
-    authDomain: "https://vietlv2-rest.herokuapp.com",
+    authDomain: "api-project-225800538040.firebaseio.com",
     databaseURL: "https://api-project-225800538040.firebaseio.com",
     storageBucket: "",
   };
